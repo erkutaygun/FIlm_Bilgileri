@@ -1,3 +1,3 @@
 ﻿# Film_Bilgileri
 
-#### Node module dosyalarini filmarsiv.webui icine atilir.
+#### Node module dosyalari filmarsiv.webui icine atilmasi lazim.
