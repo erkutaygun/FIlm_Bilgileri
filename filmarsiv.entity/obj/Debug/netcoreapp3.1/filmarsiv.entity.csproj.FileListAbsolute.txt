@@ -1,0 +1,9 @@
+C:\Users\erkut\Desktop\webProje\filmarsiv.entity\bin\Debug\netcoreapp3.1\filmarsiv.entity.deps.json
+C:\Users\erkut\Desktop\webProje\filmarsiv.entity\bin\Debug\netcoreapp3.1\filmarsiv.entity.dll
+C:\Users\erkut\Desktop\webProje\filmarsiv.entity\bin\Debug\netcoreapp3.1\filmarsiv.entity.pdb
+C:\Users\erkut\Desktop\webProje\filmarsiv.entity\obj\Debug\netcoreapp3.1\filmarsiv.entity.csprojAssemblyReference.cache
+C:\Users\erkut\Desktop\webProje\filmarsiv.entity\obj\Debug\netcoreapp3.1\filmarsiv.entity.AssemblyInfoInputs.cache
+C:\Users\erkut\Desktop\webProje\filmarsiv.entity\obj\Debug\netcoreapp3.1\filmarsiv.entity.AssemblyInfo.cs
+C:\Users\erkut\Desktop\webProje\filmarsiv.entity\obj\Debug\netcoreapp3.1\filmarsiv.entity.csproj.CoreCompileInputs.cache
+C:\Users\erkut\Desktop\webProje\filmarsiv.entity\obj\Debug\netcoreapp3.1\filmarsiv.entity.dll
+C:\Users\erkut\Desktop\webProje\filmarsiv.entity\obj\Debug\netcoreapp3.1\filmarsiv.entity.pdb

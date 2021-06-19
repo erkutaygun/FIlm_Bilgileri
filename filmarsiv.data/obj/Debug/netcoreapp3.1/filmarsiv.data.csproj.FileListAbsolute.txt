@@ -1,0 +1,15 @@
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\bin\Debug\netcoreapp3.1\filmarsiv.data.deps.json
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\bin\Debug\netcoreapp3.1\filmarsiv.data.runtimeconfig.json
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\bin\Debug\netcoreapp3.1\filmarsiv.data.runtimeconfig.dev.json
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\bin\Debug\netcoreapp3.1\filmarsiv.data.dll
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\bin\Debug\netcoreapp3.1\filmarsiv.data.pdb
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\bin\Debug\netcoreapp3.1\filmarsiv.entity.dll
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\bin\Debug\netcoreapp3.1\filmarsiv.entity.pdb
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\obj\Debug\netcoreapp3.1\filmarsiv.data.csprojAssemblyReference.cache
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\obj\Debug\netcoreapp3.1\filmarsiv.data.AssemblyInfoInputs.cache
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\obj\Debug\netcoreapp3.1\filmarsiv.data.AssemblyInfo.cs
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\obj\Debug\netcoreapp3.1\filmarsiv.data.csproj.CoreCompileInputs.cache
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\obj\Debug\netcoreapp3.1\filmarsiv.data.csproj.CopyComplete
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\obj\Debug\netcoreapp3.1\filmarsiv.data.dll
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\obj\Debug\netcoreapp3.1\filmarsiv.data.pdb
+C:\Users\erkut\Desktop\webProje\filmarsiv.data\obj\Debug\netcoreapp3.1\filmarsiv.data.genruntimeconfig.cache

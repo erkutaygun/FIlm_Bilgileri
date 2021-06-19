@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+
+ <ItemGroup>
+    <ProjectReference Include="..\filmarsiv.entity\filmarsiv.entity.csproj" />
+    <ProjectReference Include="..\filmarsiv.data\filmarsiv.data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

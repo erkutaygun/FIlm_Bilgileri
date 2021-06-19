@@ -1,0 +1,65 @@
+@model MovieListViewModel
+
+
+<div class="row">
+    <div class="col-md-12">
+        <h1 class="h3">Admin Movies</h1>
+        <hr>
+        <a class="btn btn-primary btn-sm" href="/admin/movies/create">Add Movies</a>
+        <table class="table table-bordered mt-3">
+            <thead>
+                <tr>
+                    <td style="width: 30px;">Id</td>
+                    <td style="width: 100px;">Image</td>
+                    <td>Name</td>
+                    <td style="width: 20px;">Language</td>
+                    <td style="width: 20px;">Anasayfa</td>
+                    <td style="width: 20px;">Onayli</td>
+                    <td style="width: 150px;"></td>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Movies.Count>0)
+                {
+                     @foreach (var item in Model.Movies)
+                     {
+                         <tr>
+                            <td>@item.MovieId</td>
+                            <td><img src="~/img/@item.ImageUrl" width="80"></td>
+                            <td>@item.Name</td>
+                            <td>@item.Language</td>
+                            <td>
+                                @if (item.IsHome)
+                                {
+                                    <i class="fas fa-check-circle"></i>
+                                }else{
+                                    <i class="fas fa-times-circle"></i>
+                                }
+                            </td>
+                            <td>
+                                @if (item.IsApproved)
+                                {
+                                    <i class="fas fa-check-circle"></i>
+                                }else{
+                                    <i class="fas fa-times-circle"></i>
+                                }
+                            </td>
+                            <td>
+                            <a href="/admin/movies/@item.MovieId" class="btn btn-primary btn-sm mr-2">Edit</a>
+                            <form action="/admin/deletemovie" method="POST" style="display: inline;">
+                                <input type="hidden" name="movieId" value="@item.MovieId">
+                                <button type="submit" href="#"class="btn btn-danger btn-sm">Delete</button>
+                            </form>
+                            </td>
+                        </tr>
+                      }
+                }else{
+                    <div class="alert alert-warning">
+                        <h3>No Movies</h3>
+                    </div>
+                }
+                
+            </tbody>
+        </table>
+    </div>
+</div>

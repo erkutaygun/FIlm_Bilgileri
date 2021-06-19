@@ -1,0 +1,14 @@
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\bin\Debug\netcoreapp3.1\filmarsiv.business.deps.json
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\bin\Debug\netcoreapp3.1\filmarsiv.business.dll
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\bin\Debug\netcoreapp3.1\filmarsiv.business.pdb
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\bin\Debug\netcoreapp3.1\filmarsiv.data.dll
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\bin\Debug\netcoreapp3.1\filmarsiv.entity.dll
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\bin\Debug\netcoreapp3.1\filmarsiv.entity.pdb
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\bin\Debug\netcoreapp3.1\filmarsiv.data.pdb
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\obj\Debug\netcoreapp3.1\filmarsiv.business.csprojAssemblyReference.cache
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\obj\Debug\netcoreapp3.1\filmarsiv.business.AssemblyInfoInputs.cache
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\obj\Debug\netcoreapp3.1\filmarsiv.business.AssemblyInfo.cs
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\obj\Debug\netcoreapp3.1\filmarsiv.business.csproj.CoreCompileInputs.cache
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\obj\Debug\netcoreapp3.1\filmarsiv.business.csproj.CopyComplete
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\obj\Debug\netcoreapp3.1\filmarsiv.business.dll
+C:\Users\erkut\Desktop\webProje\filmarsiv.business\obj\Debug\netcoreapp3.1\filmarsiv.business.pdb
